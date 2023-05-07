@@ -1,0 +1,37 @@
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven files
+target/
+
+# Gradle files
+.gradle/
+build/
+
+# Logs
+logs/
+*.log
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*.tmp.*
+*.~lock.*
+.DS_Store
